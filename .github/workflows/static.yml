@@ -1,0 +1,18 @@
+# Navigate to the extracted folder
+cd path/to/Jishnu_Portfolio
+
+# Initialize Git
+git init
+
+# Add remote repository (replace with your username)
+git remote add origin https://github.com/YOUR-GITHUB-USERNAME/jishnu-portfolio.git
+
+# Add files to Git
+git add .
+
+# Commit the files
+git commit -m "Initial portfolio upload"
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
