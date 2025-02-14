@@ -54,5 +54,36 @@
     <footer>
         <p>&copy; 2025 Jishnu Nedumballymyalalil Unnikrishnan</p>
     </footer>
+    <script>
+// Fade-in animation on scroll
+document.addEventListener("DOMContentLoaded", function () {
+    const elements = document.querySelectorAll(".fade-in");
+
+    const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+            if (entry.isIntersecting) {
+                entry.target.classList.add("visible");
+            }
+        });
+    });
+
+    elements.forEach((el) => observer.observe(el));
+});
+
+// Typing effect for header
+const text = "I'm Jishnu, a Web Developer.";
+let i = 0;
+const speed = 100;
+
+function typeEffect() {
+    if (i < text.length) {
+        document.getElementById("typing").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeEffect, speed);
+    }
+}
+
+window.onload = typeEffect;
+    </script>
 </body>
 </html>
