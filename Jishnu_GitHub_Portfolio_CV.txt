@@ -1,0 +1,54 @@
+
+JISHNU NEDUMBALLYMYALALIL UNNIKRISHNAN
+Cloud Support Engineer | Linux System Administrator | Infrastructure Automation Specialist (AWS | Ansible | Terraform)
+
+📍 London, UK | 📞 +44 7887 121775 | ✉️ nujishnu@gmail.com
+🔗 LinkedIn: linkedin.com/in/jishnu-nedumballymyalalil-unnikrishnan-606973130
+🌐 Portfolio: nujishnu.github.io/Jishnu-portfolio
+
+---
+
+SUMMARY
+Proactive IT professional with 3.6 years of experience managing hybrid cloud/on-prem environments, supporting infrastructure, and automating systems with Ansible and Terraform. Proven ability to ensure high service uptime, streamline processes, and deliver robust cloud and Linux support. Fully eligible to work in the UK and currently seeking roles in Cloud Support, Linux Administration, or DevOps Infrastructure.
+
+---
+
+CORE SKILLS
+• AWS (EC2, S3, IAM), Azure, VMware ESXi
+• Linux (Ubuntu, CentOS), Windows Server, AD, DNS, DHCP
+• Terraform, Ansible, Jenkins, Git, Docker
+• Office 365 Admin, ServiceNow, Zabbix, Nagios
+• Scripting: Bash, PowerShell
+• Backup: Veeam, Rubrik
+
+---
+
+EXPERIENCE
+
+Associate Software Engineer – Infrastructure & Systems
+Neviton Softech Pvt Ltd – Bengaluru, India | Feb 2022 – Nov 2024
+• Managed and monitored 50+ Linux/Windows servers in AWS and on-prem.
+• Automated provisioning using Terraform and Ansible; achieved 40% faster setup times.
+• Migrated legacy systems to AWS cloud; reduced infrastructure costs by 25%.
+• Administered AD, DNS, DHCP, Exchange Online and implemented backup solutions with Veeam and Rubrik.
+
+Junior Network Support Engineer
+Kerala Vision Broadband – Kerala, India | Jun 2021 – Feb 2022
+• Resolved 300+ monthly tickets and maintained 99% network uptime.
+• Monitored routers/switches and provided Tier 1/2 technical support.
+• Used ServiceNow and Zabbix for efficient incident handling and diagnostics.
+
+---
+
+CERTIFICATIONS
+• AWS Certified DevOps Engineer – Associate
+• Cisco Certified Network Associate (CCNA)
+• CompTIA Network+
+• Advanced Linux System Administration
+• Cybersecurity Analyst Program – Tata Forage
+
+---
+
+EDUCATION
+• BSc in Electronics – University of Calicut, 2020
+• Diploma in Electrical & Electronics Engineering – BTE, India, 2016
