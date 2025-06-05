@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
+    <!-- AOS Animation CSS -->
+<link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
 <head>
     <meta name="description" content="Jishnu Nedumballymyalalil Unnikrishnan | Technical Support Engineer & Associate Software Engineer">
 <meta name="keywords" content="DevOps, Networking, IT Support, Cloud, Software Engineer">
@@ -16,7 +18,7 @@
         <p>Technical Support Engineer | Associate Software Engineer</p>
     </header>
 
-    <section id="about">
+    <section id="about" data-aos="fade-up">
   <h2>About Me</h2>
   <p>I’m an IT Infrastructure and Cloud Support Engineer with 3.6 years of experience managing hybrid IT environments (AWS/on-prem), automating infrastructure with Terraform and Ansible, and administering both Linux and Windows systems.</p>
   <p>My background includes cloud provisioning, scripting (Bash, PowerShell), patching, and systems monitoring using tools like Jenkins, Zabbix, and ServiceNow. I’ve maintained 99.9% uptime across server environments and led cost-saving AWS migrations.</p>
@@ -89,5 +91,10 @@ function typeEffect() {
 
 window.onload = typeEffect;
     </script>
+<!-- AOS Animation JS -->
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 </body>
 </html>
