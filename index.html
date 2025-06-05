@@ -1,27 +1,32 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Jishnu N.U. | IT Infrastructure Engineer</title>
+  <title>Jishnu N.U. | IT Professional Portfolio</title>
   <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
   <style>
     body {
       font-family: 'Segoe UI', sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f9;
+      background-color: #f0f2f5;
       color: #333;
       scroll-behavior: smooth;
     }
     header {
-      background-color: #002b5c;
+      background: linear-gradient(90deg, #002b5c, #004080);
       color: white;
-      padding: 2rem;
+      padding: 3rem 2rem;
       text-align: center;
     }
     header h1 {
       margin: 0;
-      font-size: 2.5rem;
+      font-size: 2.8rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
     }
     nav {
       text-align: center;
@@ -32,15 +37,26 @@
       text-decoration: none;
       color: #0056b3;
       font-weight: bold;
+      transition: color 0.3s ease;
+    }
+    nav a:hover {
+      color: #002b5c;
     }
     section {
       padding: 4rem 2rem;
-      max-width: 900px;
+      max-width: 960px;
       margin: auto;
     }
     section h2 {
       font-size: 2rem;
       margin-bottom: 1rem;
+      color: #002b5c;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    ul li {
+      margin-bottom: 0.5rem;
     }
     .button {
       display: inline-block;
@@ -50,6 +66,10 @@
       text-decoration: none;
       border-radius: 5px;
       margin-top: 1rem;
+      transition: background-color 0.3s ease;
+    }
+    .button:hover {
+      background-color: #005bb5;
     }
     footer {
       background-color: #002b5c;
@@ -62,47 +82,68 @@
 <body>
   <header data-aos="fade-down">
     <h1>Jishnu Nedumballymyalalil Unnikrishnan</h1>
-    <p>IT Infrastructure Engineer | Cloud | Linux | Automation</p>
-  </header>  <nav data-aos="fade-in">
+    <p>IT Infrastructure | Cloud Support | Linux Systems | Automation & DevOps</p>
+  </header>
+
+  <nav data-aos="fade-in">
     <a href="#about">About</a>
     <a href="#skills">Skills</a>
     <a href="#experience">Experience</a>
     <a href="#contact">Contact</a>
-  </nav>  <section id="about" data-aos="fade-up">
-    <h2>About Me</h2>
-    <p>I’m a proactive IT Infrastructure and Cloud Support Engineer with 3.6 years of experience managing hybrid systems, automating processes with Terraform and Ansible, and supporting enterprise environments across AWS and Linux platforms.</p>
-    <p>Based in London with full UK work eligibility, I'm currently looking for private sector roles in Cloud Support, Linux Administration, or Infrastructure Automation.</p>
-  </section>  <section id="skills" data-aos="zoom-in">
-    <h2>Skills</h2>
-    <ul>
-      <li>AWS, Azure, VMware ESXi</li>
-      <li>Linux (Ubuntu, CentOS), Windows Server</li>
-      <li>Terraform, Ansible, Jenkins, Docker</li>
-      <li>Office 365 Admin, ServiceNow, Zabbix, Nagios</li>
-      <li>Scripting: Bash, PowerShell</li>
-      <li>Veeam, Rubrik, AD, DNS, DHCP</li>
-    </ul>
-  </section>  <section id="experience" data-aos="fade-right">
-    <h2>Experience</h2>
-    <p><strong>Associate Software Engineer – Infrastructure & Systems</strong><br>
-    Neviton Softech Pvt Ltd | Feb 2022 – Nov 2024</p>
-    <ul>
-      <li>Managed 50+ Linux/Windows servers in AWS/on-prem environment.</li>
-      <li>Automated server provisioning using Terraform and Ansible.</li>
-      <li>Reduced operating costs by 25% through cloud migration.</li>
-    </ul><p><strong>Junior Network Support Engineer</strong><br>
-Kerala Vision Broadband | Jun 2021 – Feb 2022</p>
-<ul>
-  <li>Delivered Tier 1/2 support to 200+ network devices.</li>
-  <li>Maintained 99% network uptime and resolved 300+ tickets monthly.</li>
-</ul>
+  </nav>
 
-  </section>  <section id="contact" data-aos="fade-left">
+  <section id="about" data-aos="fade-up">
+    <h2>About Me</h2>
+    <p>I’m a proactive and results-driven IT professional with 3.6 years of experience in infrastructure support, cloud systems, and automation. I’ve managed hybrid environments across AWS and on-prem systems, maintained enterprise-grade Linux and Windows servers, and implemented Infrastructure as Code (IaC) using Ansible and Terraform.</p>
+    <p>Skilled in monitoring, incident resolution, and system security compliance, I take pride in reducing operational risks and improving service delivery through technical innovation and streamlined processes. Based in London with full right to work in the UK, I'm seeking private sector opportunities that leverage my strengths in Cloud Support, Linux Administration, and Infrastructure Engineering.</p>
+  </section>
+
+  <section id="skills" data-aos="zoom-in">
+    <h2>Technical Skills</h2>
+    <ul>
+      <li><strong>Cloud Platforms:</strong> AWS (EC2, S3, IAM), Azure</li>
+      <li><strong>Systems:</strong> Linux (Ubuntu, CentOS), Windows Server</li>
+      <li><strong>IaC & Automation:</strong> Terraform, Ansible, Jenkins, Docker</li>
+      <li><strong>Monitoring & Admin:</strong> ServiceNow, Zabbix, Nagios, Office 365 Admin</li>
+      <li><strong>Scripting:</strong> Bash, PowerShell</li>
+      <li><strong>Networking:</strong> DNS, DHCP, VPN, VLAN, Active Directory</li>
+      <li><strong>Backup & Security:</strong> Veeam, Rubrik, Patch Management</li>
+    </ul>
+  </section>
+
+  <section id="experience" data-aos="fade-right">
+    <h2>Professional Experience</h2>
+    <p><strong>Associate Software Engineer – Infrastructure & Systems</strong><br>
+    Neviton Softech Pvt Ltd, Bengaluru, India | Feb 2022 – Nov 2024</p>
+    <ul>
+      <li>Managed 50+ Windows/Linux servers in hybrid AWS and on-prem setups with 99.9% uptime.</li>
+      <li>Automated infrastructure provisioning and patching using Terraform, Ansible, and PowerShell.</li>
+      <li>Led AWS migration that reduced operational costs by 25%.</li>
+      <li>Maintained Active Directory, DNS, DHCP, and Exchange Online services.</li>
+      <li>Implemented backup and disaster recovery using Veeam and Rubrik.</li>
+    </ul>
+
+    <p><strong>Junior Network Support Engineer</strong><br>
+    Kerala Vision Broadband, Kerala, India | Jun 2021 – Feb 2022</p>
+    <ul>
+      <li>Delivered Tier 1/2 support for 200+ routers, switches, and firewalls.</li>
+      <li>Resolved 300+ tickets monthly using ServiceNow, maintaining 99% network uptime.</li>
+      <li>Supported end users with connectivity, LAN/WAN, and VPN configuration issues.</li>
+    </ul>
+  </section>
+
+  <section id="contact" data-aos="fade-left">
     <h2>Contact</h2>
     <p>Email: <a href="mailto:nujishnu@gmail.com">nujishnu@gmail.com</a></p>
     <p>LinkedIn: <a href="https://linkedin.com/in/jishnu-nedumballymyalalil-unnikrishnan-606973130" target="_blank">linkedin.com/in/jishnu-nedumballymyalalil</a></p>
-    <a href="Jishnu_Professional_CV.pdf" download class="button">📄 Download My CV (PDF)</a>
-  </section>  <footer>
-    &copy; 2025 Jishnu N.U. | Built with HTML + AOS
-  </footer>  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>  <script>AOS.init();</script></body>
+    <a href="Jishnu_Professional_CV.pdf" download class="button" data-aos="zoom-in">📄 Download My CV (PDF)</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Jishnu N.U. | Designed with HTML + AOS
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>AOS.init({ duration: 1000, once: true });</script>
+</body>
 </html>
