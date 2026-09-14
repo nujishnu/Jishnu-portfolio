@@ -2,41 +2,101 @@
 JISHNU NEDUMBALLYMYALALIL UNNIKRISHNAN
 Cloud Support Engineer | Linux System Administrator | Infrastructure Automation Specialist (AWS | Ansible | Terraform)
 
-📍 London, UK | 📞 +44 7887 121775 | ✉️ nujishnu@gmail.com
+📍 London, UK | 📞 +44 7887 121775 +91 9645 364858| ✉️ nujishnu@gmail.com
 🔗 LinkedIn: linkedin.com/in/jishnu-nedumballymyalalil-unnikrishnan-606973130
 🌐 Portfolio: nujishnu.github.io/Jishnu-portfolio
 
 ---
 
 SUMMARY
-Proactive IT professional with 3.6 years of experience managing hybrid cloud/on-prem environments, supporting infrastructure, and automating systems with Ansible and Terraform. Proven ability to ensure high service uptime, streamline processes, and deliver robust cloud and Linux support. Fully eligible to work in the UK and currently seeking roles in Cloud Support, Linux Administration, or DevOps Infrastructure.
+I'm an enthusiastic and reliable IT Support and L2 Workplace Engineer with 4+ years of hands-on experience in end-user computing, technical support, networking, and infrastructure operations.
+
+I specialize in providing onsite and remote IT support across Windows, macOS, and Linux environments, troubleshooting hardware, software, connectivity, and application issues while ensuring incidents are resolved efficiently and within SLA. My experience includes Microsoft Intune, Autopilot, Active Directory, Microsoft 365, ServiceNow, endpoint management, device deployment, patching, and user lifecycle management.
+
+In my current role, I support enterprise users in a fast-paced corporate environment, handling joiner, mover, and leaver activities, laptop and peripheral deployments, software and access issues, endpoint configuration, and day-to-day workplace technology support. I also work closely with remote IT teams to deliver a consistent and high-quality user experience.
+
+I have a strong customer-focused approach, take ownership of technical issues from start to resolution, and enjoy solving problems while continuously developing my technical skills.
+
+Currently based in London, UK, and **available to work in India from 2 November 2026**, I am open to opportunities in L2 Workplace Support, EUC, Desktop Support, IT Support, and Infrastructure Support. I am also open to relocation and international opportunities.
+
 
 ---
 
-CORE SKILLS
-• AWS (EC2, S3, IAM), Azure, VMware ESXi
-• Linux (Ubuntu, CentOS), Windows Server, AD, DNS, DHCP
-• Terraform, Ansible, Jenkins, Git, Docker
-• Office 365 Admin, ServiceNow, Zabbix, Nagios
-• Scripting: Bash, PowerShell
-• Backup: Veeam, Rubrik
+## Technical Skills
+
+* **Operating Systems:** Windows 10/11, Windows Server, macOS, Linux (Ubuntu, CentOS)
+* **Endpoint Management:** Microsoft Intune, Windows Autopilot, Endpoint Configuration, Device Deployment, Patch Management, Endpoint Security
+* **Microsoft 365:** Microsoft 365, Outlook, Teams, OneDrive, Office 365 Administration
+* **Identity & Access:** Active Directory, Group Policy (GPO), User & Group Management, Joiner/Mover/Leaver (JML) Processes
+* **IT Service Management:** ServiceNow, Incident Management, Request Fulfilment, SLA Management, Asset Management, Ticket Management
+* **Hardware & Peripherals:** Laptop/Desktop Support, Printers, Docking Stations, Monitors, Mobile Devices, Hardware Troubleshooting
+* **Networking:** TCP/IP, DNS, DHCP, VPN, VLAN, Wi-Fi, LAN/WAN, Cisco Routers & Switches
+* **Network Troubleshooting:** Wireshark, Ping, Traceroute, IP Configuration, Connectivity Troubleshooting
+* **Monitoring & Infrastructure:** Zabbix, Nagios, Server Monitoring, System Troubleshooting
+* **Security & Administration:** Endpoint Security, Software Deployment, OS Patching, Access Control, Basic Security Troubleshooting
+* **Support:** L1/L2 Technical Support, Onsite & Remote Support, VIP/White-Glove Support, Incident Resolution, Root Cause Analysis
+
 
 ---
 
 EXPERIENCE
 
-Associate Software Engineer – Infrastructure & Systems
-Neviton Softech Pvt Ltd – Bengaluru, India | Feb 2022 – Nov 2024
-• Managed and monitored 50+ Linux/Windows servers in AWS and on-prem.
-• Automated provisioning using Terraform and Ansible; achieved 40% faster setup times.
-• Migrated legacy systems to AWS cloud; reduced infrastructure costs by 25%.
-• Administered AD, DNS, DHCP, Exchange Online and implemented backup solutions with Veeam and Rubrik.
+**L2 Workplace Engineer / Onsite IT Support Engineer**
+**Allianz Technology, London, UK | HCL Technologies** | Feb 2026 – Present
 
-Junior Network Support Engineer
-Kerala Vision Broadband – Kerala, India | Jun 2021 – Feb 2022
-• Resolved 300+ monthly tickets and maintained 99% network uptime.
-• Monitored routers/switches and provided Tier 1/2 technical support.
-• Used ServiceNow and Zabbix for efficient incident handling and diagnostics.
+* Provide L2 onsite and remote technical support to enterprise users in a fast-paced corporate environment.
+* Troubleshoot and resolve hardware, software, application, network, and access-related incidents within agreed SLAs.
+* Support Windows, macOS, and Linux end-user environments, including laptops, desktops, monitors, docking stations, printers, and mobile devices.
+* Build, configure, and deploy devices using Microsoft Intune and Windows Autopilot.
+* Support Joiner, Mover, and Leaver (JML) processes, including user accounts, devices, software, and access provisioning.
+* Provide support for Microsoft 365 applications including Outlook, Teams, OneDrive, and Office applications.
+* Manage incidents, service requests, assets, and user issues through ServiceNow.
+* Perform OS installation, patching, endpoint security, software deployment, and device lifecycle activities.
+* Work with remote infrastructure and service teams to resolve complex technical issues.
+* Deliver professional onsite and white-glove support with a strong focus on user experience.
+
+**Customer Experience Leader**
+**Customer-Facing Operations, Grays, England, UK** | Jan 2026 – Feb 2026
+
+* Delivered consistent and professional customer support in a high-pressure, customer-facing environment.
+* Acted as a first point of contact, resolving issues efficiently while managing customer expectations.
+* Communicated clearly and calmly with customers during busy and high-stress situations.
+* Followed strict operational procedures, compliance requirements, and service standards.
+* Prioritised multiple tasks while maintaining accuracy and attention to detail.
+* Worked closely with team members to ensure smooth operations and timely issue resolution.
+* Demonstrated strong reliability, accountability, time management, and customer service skills.
+
+**Customer Care Professional**
+**Customer-Facing Operations, Lakeside, England, UK** | Mar 2025 – Feb 2026
+
+* Supported customers and colleagues with professional communication and calm problem-solving.
+* Troubleshot POS systems and devices to minimise service disruption.
+* Quickly learned new systems, tools, and operational procedures.
+* Worked effectively in a fast-paced environment while maintaining service quality.
+* Developed strong teamwork, communication, problem-solving, and customer service skills.
+* Managed multiple priorities while maintaining accuracy and attention to detail.
+
+**Associate Software Engineer – Infrastructure & Systems**
+**Neviton Softech Pvt Ltd, Bengaluru, India** | Feb 2022 – Nov 2024
+
+* Provided IT infrastructure and technical support across Windows and Linux environments.
+* Managed Active Directory, Group Policy, DNS, DHCP, Microsoft 365, and endpoint administration.
+* Supported device deployment, software installation, troubleshooting, patching, and user account management.
+* Used Intune, ServiceNow, SCCM, and Lenovo Cloud Deployment for endpoint management and device provisioning.
+* Provided application and technical support, handling approximately 300 user tickets and service requests.
+* Supported iOS and Android mobile device management and troubleshooting.
+* Worked with IT teams to maintain SLA compliance, resolve incidents, and improve day-to-day infrastructure operations.
+
+**Junior Network Support Engineer**
+**Kerala Vision Broadband, Kerala, India** | Jun 2021 – Feb 2022
+
+* Provided Tier 1/2 technical support for network connectivity and infrastructure issues.
+* Supported 200+ routers, switches, and network devices across an ISP environment.
+* Resolved technical tickets involving LAN/WAN, Wi-Fi, VPN, DNS, and connectivity issues.
+* Monitored network performance and assisted with maintaining high network availability.
+* Troubleshot network issues using Wireshark, Ping, Traceroute, and IP configuration utilities.
+* Assisted customers and field teams with router configuration and connectivity troubleshooting.
+
 
 ---
 
